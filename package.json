@@ -1,0 +1,23 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "totuslink docs",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/totuslink/docs.git"
+  },
+  "author": "Totuslink",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/totuslink/docs/issues"
+  },
+  "homepage": "https://github.com/totuslink/docs#readme",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.18"
+  }
+}
